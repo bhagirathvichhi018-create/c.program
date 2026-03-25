@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
+ main()
 {
     float p, r, n, si;
 
