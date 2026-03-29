@@ -7,8 +7,7 @@ main()
 
     clrscr();
 
-    printf("Enter number: ");
-    scanf("%d", &n);
+   
 
     printf("\n------------------");
     printf("\n|                |");
