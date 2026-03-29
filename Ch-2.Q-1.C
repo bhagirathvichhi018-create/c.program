@@ -3,12 +3,9 @@
 
  main()
 {
-    int a, b;
+    int a=12, b=6;
 
     clrscr();
-
-    printf("Enter two numbers: ");
-    scanf("%d %d", &a, &b);
 
     printf("\nAddition of %d and %d is %d", a, b, a+b);
     printf("\nSubtraction of %d and %d is %d", a, b, a-b);
