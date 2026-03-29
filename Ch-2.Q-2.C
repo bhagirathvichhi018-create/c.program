@@ -3,7 +3,7 @@
 
 main()
 {
-    int n;
+    int n=5;
 
     clrscr();
 
